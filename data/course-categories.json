@@ -1,0 +1,35 @@
+ [
+    {
+      "_id": "1",
+      "name": "JavaScript"
+    },
+    {
+      "_id": "2",
+      "name": "HTML"
+    },
+    {
+      "_id": "3",
+      "name": "CSS"
+    },
+    {
+      "_id": "4",
+      "name": "C"
+    },
+    {
+      "_id": "5",
+      "name": "C++"
+    },
+    {
+      "_id": "6",
+      "name": "Python"
+    },
+    {
+      "_id": "7",
+      "name": "Ruby"
+    }
+    ,
+    {
+      "_id": "8",
+      "name": "All Categories"
+    }
+  ]

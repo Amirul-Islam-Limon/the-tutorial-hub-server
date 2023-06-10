@@ -1,0 +1,191 @@
+[
+    {
+      "_id": "648352024dce33bf92e128d9",
+      "category": "JavaScript",
+      "category_id": "1",
+      "image": "https://i.ibb.co/3c8rjZ8/java-Script1.jpg",
+      "name": "JavaScript-1",
+      "price": "$23",
+      "description": "JavaScript is a versatile and widely used programming language primarily utilized for web development. It runs on the client-side, enabling interactivity and dynamic behavior on websites through manipulation of the DOM."
+    },
+    {
+      "_id": "64835202c1cc66321807383c",
+      "category": "JavaScript",
+      "category_id": "1",
+      "image": "https://i.ibb.co/3c8rjZ8/java-Script1.jpg",
+      "name": "JavaScript-2",
+      "price": "$20",
+      "description": "JavaScript is a versatile and widely used programming language primarily utilized for web development. It runs on the client-side, enabling interactivity and dynamic behavior on websites through manipulation of the DOM."
+    },
+    {
+      "_id": "648352022fcb47a9e940af56",
+      "category": "JavaScript",
+      "category_id": "1",
+      "image": "https://i.ibb.co/3c8rjZ8/java-Script1.jpg",
+      "name": "JavaScript-3",
+      "price": "$13",
+      "description": "JavaScript is a versatile and widely used programming language primarily utilized for web development. It runs on the client-side, enabling interactivity and dynamic behavior on websites through manipulation of the DOM."
+    },
+    {
+      "_id": "648352020c67b01c817bc5e9",
+      "category": "HTML",
+      "category_id": "2",
+      "image": "https://i.ibb.co/7jWbg3w/HTMLand-CSS.jpg",
+      "name": "HTML-1",
+      "price": "$23",
+      "description": "JavaScript is a versatile and widely used programming language primarily utilized for web development. It runs on the client-side, enabling interactivity and dynamic behavior on websites through manipulation of the DOM."
+    },
+    {
+      "_id": "64835202bea1a17b1d32ce84",
+      "category": "HTML",
+      "category_id": "2",
+      "image": "https://i.ibb.co/7jWbg3w/HTMLand-CSS.jpg",
+      "name": "HTML-2",
+      "price": "$20",
+      "description": "JavaScript is a versatile and widely used programming language primarily utilized for web development. It runs on the client-side, enabling interactivity and dynamic behavior on websites through manipulation of the DOM."
+    },
+    {
+      "_id": "64835202e8c95bb95cb6d934",
+      "category": "HTML",
+      "category_id": "2",
+      "image": "https://i.ibb.co/7jWbg3w/HTMLand-CSS.jpg",
+      "name": "HTML-3",
+      "price": "$43",
+      "description": "JavaScript is a versatile and widely used programming language primarily utilized for web development. It runs on the client-side, enabling interactivity and dynamic behavior on websites through manipulation of the DOM."
+    },
+    {
+      "_id": "648352025a372986ba1dd903",
+      "category": "CSS",
+      "category_id": "3",
+      "image": "https://i.ibb.co/7jWbg3w/HTMLand-CSS.jpg",
+      "name": "CSS-1",
+      "price": "$13",
+      "description": "JavaScript is a versatile and widely used programming language primarily utilized for web development. It runs on the client-side, enabling interactivity and dynamic behavior on websites through manipulation of the DOM."
+    },
+    {
+      "_id": "648352027bd94f494c42f267",
+      "category": "CSS",
+      "category_id": "3",
+      "image": "https://i.ibb.co/7jWbg3w/HTMLand-CSS.jpg",
+      "name": "CSS-2",
+      "price": "$15",
+      "description": "JavaScript is a versatile and widely used programming language primarily utilized for web development. It runs on the client-side, enabling interactivity and dynamic behavior on websites through manipulation of the DOM."
+    },
+    {
+      "_id": "648352029e2897757c08a0d0",
+      "category": "CSS",
+      "category_id": "3",
+      "image": "https://i.ibb.co/7jWbg3w/HTMLand-CSS.jpg",
+      "name": "CSS-3",
+      "price": "$11",
+      "description": "JavaScript is a versatile and widely used programming language primarily utilized for web development. It runs on the client-side, enabling interactivity and dynamic behavior on websites through manipulation of the DOM."
+    },
+    {
+      "_id": "64835202a52454c0159b93f1",
+      "category": "C",
+      "category_id": "4",
+      "image": "https://i.ibb.co/bmpx5Fs/C1.jpg",
+      "name": "C-1",
+      "price": "$23",
+      "description": "JavaScript is a versatile and widely used programming language primarily utilized for web development. It runs on the client-side, enabling interactivity and dynamic behavior on websites through manipulation of the DOM."
+    },
+    {
+      "_id": "64835202d9a91c587efe4a75",
+      "category": "C",
+      "category_id": "4",
+      "image": "https://i.ibb.co/bmpx5Fs/C1.jpg",
+      "name": "C-2",
+      "price": "$33",
+      "description": "JavaScript is a versatile and widely used programming language primarily utilized for web development. It runs on the client-side, enabling interactivity and dynamic behavior on websites through manipulation of the DOM."
+    },
+    {
+      "_id": "648352028a48875954bcde17",
+      "category": "C",
+      "category_id": "4",
+      "image": "https://i.ibb.co/bmpx5Fs/C1.jpg",
+      "name": "C-3",
+      "price": "$43",
+      "description": "JavaScript is a versatile and widely used programming language primarily utilized for web development. It runs on the client-side, enabling interactivity and dynamic behavior on websites through manipulation of the DOM."
+    },
+    {
+      "_id": "648352028a488075954bcde17",
+      "category": "C++",
+      "category_id": "5",
+      "image": "https://i.ibb.co/mDKmTTL/C-1.jpg",
+      "name": "C++1",
+      "price": "$30",
+      "description": "JavaScript is a versatile and widely used programming language primarily utilized for web development. It runs on the client-side, enabling interactivity and dynamic behavior on websites through manipulation of the DOM."
+    },
+    {
+      "_id": "648352028a488759594bcde17",
+      "category": "C++",
+      "category_id": "5",
+      "image": "https://i.ibb.co/mDKmTTL/C-1.jpg",
+      "name": "C++2",
+      "price": "$35",
+      "description": "JavaScript is a versatile and widely used programming language primarily utilized for web development. It runs on the client-side, enabling interactivity and dynamic behavior on websites through manipulation of the DOM."
+    },
+    {
+      "_id": "648352028a488759548bcde17",
+      "category": "C++",
+      "category_id": "5",
+      "image": "https://i.ibb.co/mDKmTTL/C-1.jpg",
+      "name": "C++3",
+      "price": "$35",
+      "description": "JavaScript is a versatile and widely used programming language primarily utilized for web development. It runs on the client-side, enabling interactivity and dynamic behavior on websites through manipulation of the DOM."
+    },
+    {
+      "_id": "648352048875954bcde17",
+      "category": "Python",
+      "category_id": "6",
+      "image": "https://i.ibb.co/JqxRLMb/Python2.jpg",
+      "name": "Python-1",
+      "price": "$40",
+      "description": "JavaScript is a versatile and widely used programming language primarily utilized for web development. It runs on the client-side, enabling interactivity and dynamic behavior on websites through manipulation of the DOM."
+    },
+    {
+      "_id": "648352028a8875954bcde17",
+      "category": "Python",
+      "category_id": "6",
+      "image": "https://i.ibb.co/JqxRLMb/Python2.jpg",
+      "name": "Python-2",
+      "price": "$23",
+      "description": "JavaScript is a versatile and widely used programming language primarily utilized for web development. It runs on the client-side, enabling interactivity and dynamic behavior on websites through manipulation of the DOM."
+    },
+    {
+      "_id": "648352028a48875954bde17",
+      "category": "Python",
+      "category_id": "6",
+      "image": "https://i.ibb.co/JqxRLMb/Python2.jpg",
+      "name": "Python-3",
+      "price": "$35",
+      "description": "JavaScript is a versatile and widely used programming language primarily utilized for web development. It runs on the client-side, enabling interactivity and dynamic behavior on websites through manipulation of the DOM."
+    },
+    {
+      "_id": "648352028a8754bcde17",
+      "category": "Ruby",
+      "category_id": "7",
+      "image": "https://i.ibb.co/Ss6hdBH/Ruby1.jpg",
+      "name": "Ruby-1",
+      "price": "$23",
+      "description": "JavaScript is a versatile and widely used programming language primarily utilized for web development. It runs on the client-side, enabling interactivity and dynamic behavior on websites through manipulation of the DOM."
+    },
+    {
+      "_id": "6483028a485954bcde17",
+      "category": "Ruby",
+      "category_id": "7",
+      "image": "https://i.ibb.co/Ss6hdBH/Ruby1.jpg",
+      "name": "Ruby-2",
+      "price": "$29",
+      "description": "JavaScript is a versatile and widely used programming language primarily utilized for web development. It runs on the client-side, enabling interactivity and dynamic behavior on websites through manipulation of the DOM."
+    },
+    {
+      "_id": "8352028a488754bcde17",
+      "category": "Ruby",
+      "category_id": "7",
+      "image": "https://i.ibb.co/Ss6hdBH/Ruby1.jpg",
+      "name": "Ruby-3",
+      "price": "$28",
+      "description": "JavaScript is a versatile and widely used programming language primarily utilized for web development. It runs on the client-side, enabling interactivity and dynamic behavior on websites through manipulation of the DOM."
+    }
+  ]
